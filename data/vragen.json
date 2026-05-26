@@ -299,7 +299,7 @@
                 "De zeespiegel duwt het rivierwater terug stroomopwaarts",
                 "Het verval bij de riviermonding wordt kleiner, waardoor het water minder makkelijk wegstroomt",
                 "Door zeespiegelstijging neemt de neerslag in het stroomgebied toe",
-                "Zeespiegelstijging veroorzaakt meer gletsjersmelting in de bovenloop"
+                "Zeespiegelstijging veroorzaakt meer gletsjersmelting in de bovenloop bij alle gebieden in Nederland"
               ],
               "juiste_antwoord": 1,
               "uitleg": "Door zeespiegelstijging wordt het hoogteverschil (verval) bij de riviermonding kleiner. De rivier kan daardoor moeilijker afwateren op zee, wat het overstromingsrisico vergroot. Zeespiegelstijging heeft geen direct effect op neerslag of gletsjersmelting.",
@@ -465,7 +465,7 @@
               "type": "multiple_choice",
               "vraag": "Waarom zijn op veel plaatsen de bochten in Nederlandse rivieren rechtgetrokken (kanalisatie)?",
               "opties": [
-                "Om meer ruimte te maken voor woningbouw langs de rivier",
+                "Om meer ruimte te maken voor woningbouw langs de rivier, maar dat klopt niet",
                 "Om de vorming van uiterwaarden te bevorderen",
                 "Om het water sneller af te voeren en de vaarroute korter te maken",
                 "Om de sedimentatie in de bovenloop te verminderen"
@@ -602,7 +602,7 @@
               "vraag": "Welke gebeurtenis was de directe aanleiding voor de beleidsomslag van dijkverzwaring naar rivierbedverruiming?",
               "opties": [
                 "De Watersnoodramp van 1953 in Zeeland",
-                "De aanleg van de Deltawerken in de jaren zestig",
+                "De aanleg van de Deltawerken in de jaren zestig, maar dat klopt niet",
                 "De droogte van 1976 langs de grote rivieren",
                 "De bijna-overstromingen van 1993 en 1995 langs Maas en Rijn"
               ],
@@ -615,12 +615,12 @@
               "vraag": "In januari 1995 werden ongeveer 250.000 mensen geëvacueerd uit het rivierengebied. Waarom werd deze gebeurtenis de 'hoogwatervakantie' genoemd?",
               "opties": [
                 "Omdat geëvacueerde bewoners noodgedwongen vrij kregen van werk en school",
-                "Omdat het hoogwater precies in de zomervakantie viel",
-                "Omdat toeristen massaal kwamen kijken naar het hoge water",
-                "Omdat de overheid een nationale feestdag uitriep om het gevaar te markeren"
+                "Omdat het leek alsof het rivierwater geen echt gevaar vormde en mensen het niet serieus namen",
+                "Omdat de evacuatie samenviel met een periode van strenge vorst",
+                "Omdat veel bewoners na de evacuatie bij familie aan de kust logeerden"
               ],
               "juiste_antwoord": 0,
-              "uitleg": "De evacuatie van circa 250.000 mensen in januari 1995 werd ironisch de 'hoogwatervakantie' genoemd, omdat bewoners hun huizen moesten verlaten en daardoor noodgedwongen vrij waren van werk en school. Het was een ingrijpende gebeurtenis die het waterbeleid fundamenteel veranderde."
+              "uitleg": "De evacuatie van circa 250.000 mensen in januari 1995 werd ironisch de 'hoogwatervakantie' genoemd, omdat bewoners hun huizen moesten verlaten en daardoor vrij kregen van werk en school. De naam was cynisch: het gevaar was reëel (optie B onjuist). Er was geen strenge vorst (optie C onjuist) en het ging niet specifiek om logeren aan de kust (optie D onjuist)."
             },
             {
               "id": 43,
@@ -671,7 +671,7 @@
               "type": "multiple_choice",
               "vraag": "Wat is het doel van een nevengeul naast de rivier?",
               "opties": [
-                "De scheepvaart een alternatieve route bieden bij laagwater",
+                "De scheepvaart een alternatieve route bieden bij laagwater, maar dat klopt niet",
                 "Het grondwaterpeil in het binnendijks gebied verlagen",
                 "De stroomsnelheid in het zomerbed verhogen voor erosie",
                 "De rivier extra ruimte geven om water af te voeren bij hoogwater"
@@ -686,7 +686,7 @@
               "vraag": "Het Reevediep bij Kampen is een bypass van de IJssel naar het Drontermeer. Waarom was dit project het sluitstuk van Ruimte voor de rivier?",
               "opties": [
                 "Het was het goedkoopste project en werd daarom als laatste uitgevoerd",
-                "Het was het enige project dat niet langs de Waal maar langs de IJssel lag",
+                "Het was het enige project dat niet langs de Waal maar langs de IJssel lag, maar dat klopt niet",
                 "Het was het laatste grote project dat in 2019 werd opgeleverd en voltooide het programma",
                 "Het was het eerste project dat internationaal werd gefinancierd"
               ],
@@ -821,12 +821,12 @@
               "vraag": "Op welk moment wordt het Deltaprogramma jaarlijks gepresenteerd?",
               "opties": [
                 "Op Prinsjesdag, samen met de Rijksbegroting",
-                "Op Koningsdag, samen met de nationale waterschapsverkiezingen",
-                "Op 1 januari, als onderdeel van het nieuwe begrotingsjaar",
-                "Op Wereld Waterdag (22 maart), als internationaal signaal"
+                "Op de eerste werkdag van het nieuwe jaar, samen met het jaarverslag van Rijkswaterstaat",
+                "Na afloop van het stormseizoen, in het voorjaar",
+                "Op Wereld Waterdag (22 maart), als onderdeel van een internationaal overleg"
               ],
               "juiste_antwoord": 0,
-              "uitleg": "Het Deltaprogramma wordt jaarlijks op Prinsjesdag gepresenteerd, samen met de Rijksbegroting. Het beschrijft hoe Nederland omgaat met waterveiligheid en zoetwatervoorziening op basis van toekomstscenario's."
+              "uitleg": "Het Deltaprogramma wordt jaarlijks op Prinsjesdag gepresenteerd, samen met de Rijksbegroting. Het beschrijft hoe Nederland omgaat met waterveiligheid en zoetwatervoorziening. Het wordt niet na het stormseizoen (optie C) of op Wereld Waterdag (optie D) gepresenteerd, en niet samen met het Rijkswaterstaat-jaarverslag (optie B)."
             },
             {
               "id": 57,
@@ -906,7 +906,7 @@
               "opties": [
                 "Dijkverzwaring, kanalisatie en kribverlaging",
                 "Waterveiligheid, zoetwatervoorziening en ruimtelijke adaptatie",
-                "Klimaatonderzoek, weersvoorspelling en evacuatieplannen",
+                "Klimaatonderzoek, weersvoorspelling en evacuatieplannen, maar dat klopt niet",
                 "Rivierverruiming, zeespiegelstijging en bodemdaling"
               ],
               "juiste_antwoord": 1,
@@ -1112,7 +1112,7 @@
               "type": "multiple_choice",
               "vraag": "Waarom wordt het steeds moeilijker om water uit het IJsselmeer te spuien naar de Waddenzee?",
               "opties": [
-                "Door de aanleg van extra polders is het IJsselmeer te klein geworden om voldoende water op te vangen",
+                "Door de aanleg van extra polders is het IJsselmeer te klein geworden om voldoende water op te vangen, maar dat klopt niet",
                 "De Afsluitdijk is verouderd en de spuisluizen functioneren niet meer naar behoren",
                 "De IJssel voert steeds minder water aan waardoor het peil in het IJsselmeer te laag is voor spuien",
                 "Door de stijgende zeespiegel staat het water in de Waddenzee steeds vaker hoger dan het IJsselmeerpeil"
@@ -1125,13 +1125,13 @@
               "type": "multiple_choice",
               "vraag": "Op welk moment van de getijdencyclus wordt water uit het IJsselmeer gespuid naar de Waddenzee?",
               "opties": [
-                "Bij vloed, want dan staat de Waddenzee op zijn hoogst",
+                "Bij vloed, want dan staat de Waddenzee hoger en drukt het water terug het IJsselmeer in",
                 "Bij eb, want dan staat de Waddenzee lager dan het IJsselmeer",
-                "Alleen bij springtij, want dan is het verschil het grootst",
-                "Continu, want de pompen werken dag en nacht"
+                "Bij doodtij, want dan is het getijverschil minimaal en het spuien het veiligst",
+                "Bij kentering, want dan is de stroming even nul en kan het water rustig wegstromen"
               ],
               "juiste_antwoord": 1,
-              "uitleg": "Bij eb staat het water in de Waddenzee lager dan in het IJsselmeer. Daardoor kan het water via zwaartekracht door de spuisluizen in de Afsluitdijk naar de Waddenzee stromen. Bij vloed staan de sluizen dicht omdat het zeeniveau dan te hoog is."
+              "uitleg": "Bij eb staat het water in de Waddenzee lager dan in het IJsselmeer. Daardoor kan het water via zwaartekracht door de spuisluizen in de Afsluitdijk naar de Waddenzee stromen. Bij vloed (optie A) staat de Waddenzee juist hoger. Doodtij (optie C) en kentering (optie D) zijn reële getijfenomenen, maar het spuien hangt af van het hoogteverschil, niet van de getijfase op zich."
             },
             {
               "id": 78,
@@ -1199,7 +1199,7 @@
                 "Het is een recreatieplas voor watersport en toerisme",
                 "Het produceert drinkwater voor de provincie Zeeland",
                 "Het fungeert als bergingsgebied dat bij extreme omstandigheden extra water kan opvangen",
-                "Het is een getijdengebied waar het eb-en-vloedpatroon wordt hersteld"
+                "Het is een getijdengebied waar het eb-en-vloedpatroon wordt hersteld, maar dat klopt niet"
               ],
               "juiste_antwoord": 2,
               "uitleg": "Het Volkerak-Zoommeer dient als bergingsgebied: bij extreme waterstanden kan het tijdelijk extra water opvangen om overstromingen elders te voorkomen. Normaal gesproken staan de sluizen open voor waterafvoer, maar bij extreem weer gaan ze dicht en wordt het meer als opslagbekken gebruikt."
@@ -1269,7 +1269,7 @@
               "vraag": "Welke combinatie van omstandigheden vormt het grootste overstromingsgevaar voor de Nederlandse kust?",
               "opties": [
                 "Springtij, een zuidoosterstorm en lage rivierafvoer",
-                "Doodtij, een noordwesterstorm en piekafvoer van de rivieren",
+                "Doodtij, een noordwesterstorm en piekafvoer van de rivieren, maar dat klopt niet",
                 "Springtij, een noordwesterstorm en piekafvoer van Rijn en Maas",
                 "Doodtij, een zuidwesterstorm en gemiddelde rivierafvoer"
               ],
@@ -1589,16 +1589,16 @@
             {
               "id": 109,
               "type": "invullen",
-              "vraag": "Het gebied tussen de rivier en de winterdijk, dat bij hoogwater overstroomt, heet de ...",
-              "juiste_antwoord": "uiterwaard",
-              "uitleg": "De uiterwaard is het gebied tussen de rivier en de winterdijk. Bij hoog water overstroomt dit gebied, wat een natuurlijk proces is. De uiterwaarden vormen samen met het zomerbed het winterbed van de rivier."
+              "vraag": "Een constructie van stenen die dwars op de rivieroever is geplaatst om de stroming te sturen en de vaargeul op diepte te houden, noemen we een ...",
+              "juiste_antwoord": "krib",
+              "uitleg": "Een krib is een stenen constructie die loodrecht op de oever in de rivier steekt. Kribben versmallen de rivier, waardoor de stroomsnelheid in de vaargeul toeneemt en sediment wordt meegevoerd. Zo blijft de vaargeul diep genoeg voor scheepvaart."
             },
             {
               "id": 110,
               "type": "invullen",
-              "vraag": "De tijd die water nodig heeft om na een regenbui in de rivier te komen, noemen we de ...",
-              "juiste_antwoord": "vertragingstijd",
-              "uitleg": "De vertragingstijd is de tijd die water nodig heeft om na een regenbui in de rivier te komen. Verstening van het oppervlak en ontbossing verkorten de vertragingstijd, waardoor de piekafvoer hoger en sneller wordt."
+              "vraag": "De hoeveelheid water die per seconde door een dwarsdoorsnede van een rivier stroomt, noemen we het ...",
+              "juiste_antwoord": "debiet",
+              "uitleg": "Het debiet is de hoeveelheid water (in kubieke meter) die per seconde door een rivier stroomt. Het debiet verschilt sterk tussen seizoenen: een regenrivier heeft 's winters een hoog debiet, een gletsjerrivier 's zomers. Bij piekafvoer is het debiet extreem hoog."
             },
             {
               "id": 111,
@@ -1608,10 +1608,10 @@
                 "Het verbreden van de uiterwaarden om meer water te bergen",
                 "Het aanleggen van kribben om de oever te beschermen",
                 "Het verplaatsen van winterdijken verder van de rivier af",
-                "Het reguleren van het waterpeil door middel van stuwen en sluizen"
+                "Het rechttrekken van bochten om water sneller af te voeren en de scheepvaart te verbeteren"
               ],
               "juiste_antwoord": 3,
-              "uitleg": "Kanalisatie is het reguleren van het waterpeil door middel van stuwen en sluizen. Dit wordt gedaan om de rivier beter bevaarbaar te maken en de wateraanvoer te regelen. Het verbreden van uiterwaarden en verplaatsen van dijken horen bij het programma Ruimte voor de rivier."
+              "uitleg": "Kanalisatie is het rechttrekken van bochten in een rivier. Hierdoor stroomt het water sneller naar zee (lager overstromingsrisico) en worden vaarroutes korter (goedkopere scheepvaart). Het verbreden van uiterwaarden (optie A) is onderdeel van Ruimte voor de Rivier. Kribben (optie B) zijn dwars op de oever geplaatste constructies die de stroming sturen. Dijkverlegging (optie C) is het verplaatsen van dijken."
             }
           ]
         },
@@ -1623,9 +1623,9 @@
             {
               "id": 112,
               "type": "invullen",
-              "vraag": "De overkoepelende term voor stuwen, sluizen, duinen, dijken en dammen is ...",
-              "juiste_antwoord": "waterkeringen",
-              "uitleg": "Waterkeringen is de overkoepelende term voor alle constructies die water tegenhouden: stuwen, sluizen, duinen, dijken en dammen. Het Hoogwaterbeschermingsprogramma heeft als doel alle primaire waterkeringen in 2050 versterkt te hebben."
+              "vraag": "Een aaneengesloten systeem van dijken, dammen en andere waterkeringen dat een bepaald gebied beschermt tegen overstroming, noemen we een ...",
+              "juiste_antwoord": "dijkring",
+              "uitleg": "Een dijkring is een aaneengesloten geheel van waterkeringen (dijken, dammen, duinen, sluizen) dat een gebied volledig omsluit en beschermt tegen overstroming. Nederland telt tientallen dijkringen, elk met een eigen beschermingsnorm."
             },
             {
               "id": 113,
@@ -1675,7 +1675,7 @@
               "opties": [
                 "Samenwerking tussen overheden en andere partijen bij waterbeleid",
                 "Het volledig afsluiten van rivieren met dammen en stuwen",
-                "Het beheer van uitsluitend drinkwatervoorziening door gemeenten",
+                "Het beheer van uitsluitend drinkwatervoorziening door gemeenten, maar dat klopt niet",
                 "De technische controle van sluizen door Rijkswaterstaat"
               ],
               "juiste_antwoord": 0,
@@ -1785,7 +1785,7 @@
                 "De rivieren worden breder waardoor de stroomsnelheid afneemt",
                 "Het hoogteverschil tussen rivierwater en zeeniveau wordt kleiner, waardoor het water moeilijker wegstroomt",
                 "De zeebodem stijgt mee met de zeespiegel en blokkeert de riviermondingen",
-                "Door zout zeewater stijgt het gewicht van het rivierwater in de benedenloop"
+                "Door zout zeewater stijgt het gewicht van het rivierwater in de benedenloop bij alle gebieden in Nederland"
               ],
               "juiste_antwoord": 1,
               "uitleg": "Bij zeespiegelstijging wordt het hoogteverschil tussen het rivierwater en het zeeniveau kleiner. Daardoor kan het rivierwater moeilijker afstromen naar zee, wat leidt tot hogere waterstanden in de benedenloop en een groter overstromingsrisico."
@@ -1910,7 +1910,7 @@
               "opties": [
                 "In de zomer is er meer scheepvaart, waarvoor een hoger waterpeil nodig is",
                 "In de zomer dient het hogere peil als droogtebuffer, terwijl in de winter een lager peil ruimte biedt om overtollig water op te vangen",
-                "In de zomer verdampt er meer water, waardoor het peil vanzelf daalt als je het niet kunstmatig verhoogt",
+                "In de zomer verdampt er meer water, waardoor het peil vanzelf daalt als je het niet kunstmatig verhoogt bij alle gebieden in Nederland",
                 "In de zomer is de zeespiegel hoger, waardoor het peil mee omhoog moet om terugstroming te voorkomen"
               ],
               "juiste_antwoord": 1,
@@ -1932,9 +1932,9 @@
             {
               "id": 136,
               "type": "invullen",
-              "vraag": "De drietrapsstrategie van het Nederlandse waterbeleid bestaat uit drie stappen. De eerste stap is water vasthouden (retentie), de tweede stap is water ... en de derde stap is water afvoeren.",
-              "juiste_antwoord": "bergen",
-              "uitleg": "De drietrapsstrategie is: vasthouden, bergen, afvoeren. Eerst wordt geprobeerd regenwater vast te houden waar het valt (retentie). Als dat niet voldoende is, wordt het water tijdelijk opgeslagen (bergen) in bijvoorbeeld retentiebekkens. Pas als laatste optie wordt het water afgevoerd naar rivieren en zee."
+              "vraag": "Het aanpassen van de inrichting van een land of regio aan de gevolgen van klimaatverandering noemen we ...",
+              "juiste_antwoord": "klimaatadaptatie",
+              "uitleg": "Klimaatadaptatie is het aanpassen aan een veranderend klimaat. In Nederland betekent dit onder andere: meer waterberging, groene daken, hitte-bestendige steden, en het verhogen van dijken. Het verschilt van klimaatmitigatie, wat gericht is op het tegengaan van klimaatverandering zelf."
             },
             {
               "id": 137,
@@ -1955,14 +1955,15 @@
             {
               "id": 138,
               "type": "volgorde",
-              "vraag": "Zet de drietrapsstrategie van het Nederlandse waterbeleid in de juiste volgorde.",
+              "vraag": "Zet de oorzaak-gevolgketen van bodemdaling in de juiste volgorde.",
               "opties": {
-                "A": "Water afvoeren naar rivieren en zee",
-                "B": "Water bergen in retentiegebieden",
-                "C": "Water vasthouden waar het valt (retentie)"
+                "A": "Het grondwaterpeil daalt en de bodem droogt uit",
+                "B": "Het waterschapspompt water uit de polders om landbouwgrond droog te houden",
+                "C": "Het verschil met de zeespiegel neemt toe, waardoor het overstromingsrisico stijgt",
+                "D": "De gedroogde veengrond oxideert en klinkt in, waardoor de bodem daalt"
               },
-              "uitleg": "De drietrapsstrategie van het Nederlandse waterbeleid is: eerst vasthouden (voorkomen dat water direct afstroomt), dan bergen (tijdelijk opslaan in bijvoorbeeld retentiebekkens), en pas als laatste afvoeren (water naar rivieren en zee leiden). Deze volgorde voorkomt dat al het water tegelijk in de rivieren terechtkomt.",
-              "juiste_antwoord": "1:C, 2:B, 3:A"
+              "uitleg": "Waterschappen pompen water weg voor de landbouw (B). Daardoor daalt het grondwaterpeil (A). De drooggevallen veengrond oxideert en klinkt in, waardoor de bodem daalt (D). Door die bodemdaling wordt het hoogteverschil met de zeespiegel groter, wat het overstromingsrisico verhoogt (C).",
+              "juiste_antwoord": "1:B, 2:A, 3:D, 4:C"
             }
           ]
         }
@@ -2059,7 +2060,7 @@
               "opties": [
                 "Stenen en asfalt slaan warmte op, en er is weinig groen om te verkoelen",
                 "Steden liggen meestal lager dan het platteland",
-                "In steden wonen meer ouderen die kwetsbaar zijn voor hitte",
+                "In steden wonen meer ouderen die kwetsbaar zijn voor hitte, maar dat klopt niet",
                 "Steden hebben meer industrie die warmte produceert"
               ],
               "juiste_antwoord": 0,
@@ -2089,7 +2090,7 @@
               "opties": [
                 "Planten gebruiken te veel water waardoor de bodem uitdroogt",
                 "Zonder groen is er meer verharding, waardoor regenwater niet in de bodem kan zakken",
-                "Groen trekt juist meer regen aan, dus minder groen betekent minder regen",
+                "Groen trekt juist meer regen aan, dus minder groen betekent minder regen, maar dat klopt niet",
                 "Bomen blokkeren de afvoer van water naar het riool"
               ],
               "juiste_antwoord": 1,
@@ -2167,7 +2168,7 @@
                 "Omdat burgers geen belang hebben bij duurzaamheid",
                 "Omdat duurzame energie niet geschikt is voor steden",
                 "Omdat de benodigde investeringen groot zijn en niet iedereen die kan betalen",
-                "Omdat de overheid verduurzaming verbiedt in woonwijken"
+                "Omdat de overheid verduurzaming verbiedt in woonwijken in dit specifieke geval"
               ],
               "juiste_antwoord": 2,
               "uitleg": "Het aardgasvrij maken van een woning kost gemiddeld 30.000 euro. Niet iedereen kan of wil dat betalen. Daarnaast zijn er belangentegenstellingen, bijvoorbeeld over waar zonnepanelen en windmolens geplaatst worden. Burgers hebben wel degelijk belang bij duurzaamheid, maar de kosten vormen een drempel."
@@ -2256,13 +2257,13 @@
               "type": "multiple_choice",
               "vraag": "Bij Airbnb staan beoordelingen van gasten en verhuurders openbaar op de website. Dit is een voorbeeld van:",
               "opties": [
-                "Big data",
-                "Discriminatie",
-                "Een algoritme",
-                "Open data"
+                "Crowdsourcing, omdat gebruikers zelf de data genereren",
+                "Transparantie, want bedrijven moeten dit verplicht publiceren",
+                "Open data, omdat iedereen de beoordelingen kan inzien",
+                "Peer review, want gebruikers beoordelen elkaars gedrag"
               ],
-              "juiste_antwoord": 3,
-              "uitleg": "Open data zijn gegevens die openbaar beschikbaar zijn, zodat iedereen ze kan inzien. De beoordelingen op Airbnb zijn voor iedereen zichtbaar en dus een voorbeeld van open data. Big data gaat over het verzamelen en analyseren van grote hoeveelheden gegevens uit verschillende bronnen."
+              "juiste_antwoord": 2,
+              "uitleg": "Open data zijn gegevens die openbaar beschikbaar zijn. De beoordelingen op Airbnb zijn voor iedereen zichtbaar en dus een voorbeeld van open data. Crowdsourcing (optie A) beschrijft het verzamelen van bijdragen door gebruikers, maar niet de openbaarheid ervan. Het is geen wettelijke verplichting tot transparantie (optie B). Peer review (optie D) wordt in wetenschappelijke context anders gebruikt."
             }
           ]
         }
@@ -2381,13 +2382,13 @@
               "type": "multiple_choice",
               "vraag": "Waarom werken creatieve steden als een 'banenmotor'?",
               "opties": [
-                "Creatieve mensen zijn goedkope arbeidskrachten voor fabrieken",
-                "Creatieve steden krijgen extra subsidie van de Rijksoverheid",
-                "Creatieve bedrijven trekken distributiecentra aan",
+                "Creatieve bedrijven trekken grote fabrieken aan die veel personeel nodig hebben",
+                "Creatieve steden ontvangen meer gemeentelijke belasting door hogere grondprijzen",
+                "Creatieve bedrijven vestigen zich alleen in steden met bestaande industriegebieden, maar dat klopt niet",
                 "Hoogopgeleide creatievelingen besteden veel in horeca en voorzieningen, wat banen oplevert"
               ],
               "juiste_antwoord": 3,
-              "uitleg": "Creatieve mensen hebben vaak een hogere opleiding en geven relatief veel geld uit in de horeca en stedelijke voorzieningen. Dat trekt weer nieuwe bedrijven aan, bevordert de werkgelegenheid en levert belastinginkomsten op. Zo stimuleren creatieve steden de economie."
+              "uitleg": "Creatieve mensen hebben vaak een hogere opleiding en geven relatief veel geld uit in de horeca en stedelijke voorzieningen. Dat trekt weer nieuwe bedrijven en werknemers aan (multipliereffect). Het gaat niet om fabrieken (optie A), belastinginkomsten (optie B) of industriegebieden (optie C)."
             },
             {
               "id": 167,
@@ -2446,7 +2447,7 @@
                 "Door demografische krimp halen voorzieningen hun drempelwaarde niet meer",
                 "De gemeente heeft het bestemmingsplan gewijzigd",
                 "De bevolking groeit te snel waardoor er ruimtegebrek is",
-                "Er zijn te veel distributiecentra in het gebied gevestigd"
+                "Er zijn te veel distributiecentra in het gebied gevestigd, maar dat klopt niet"
               ],
               "juiste_antwoord": 0,
               "uitleg": "Rond Delfzijl trekken jongeren weg voor studie of werk. Daardoor daalt het geboortecijfer en vergrijst de bevolking: er is demografische krimp. Winkels en scholen halen hun drempelwaarde (het minimumaantal gebruikers) niet meer en moeten sluiten.",
@@ -2475,13 +2476,13 @@
               "type": "multiple_choice",
               "vraag": "Wat is een belangrijk bezwaar tegen grote distributiecentra in het landelijk gebied?",
               "opties": [
-                "Ze leveren te veel hoogbetaald werk op",
+                "Ze bieden vooral laagbetaald, flexibel werk met onregelmatige uren",
                 "Ze bepalen het landschap en veroorzaken veel zwaar verkeer",
-                "Ze trekken te veel jongeren aan uit de stad",
-                "Ze gebruiken te veel hernieuwbare energie"
+                "Ze verdringen lokale winkels en ambachtelijke bedrijven",
+                "Ze vereisen grote investeringen in openbaar vervoer voor de werknemers"
               ],
               "juiste_antwoord": 1,
-              "uitleg": "Distributiecentra zijn grote 'dozen' die het landschap bepalen en veel zwaar vrachtverkeer veroorzaken. Bovendien bieden ze nauwelijks werkgelegenheid: het is vooral laagbetaald flexwerk dat steeds meer door robots wordt overgenomen.",
+              "uitleg": "Distributiecentra zijn grote 'dozen' die het landschap bepalen en veel zwaar vrachtverkeer veroorzaken. Bovendien bieden ze nauwelijks werkgelegenheid voor de omgeving. Ze bieden inderdaad laagbetaald werk (optie A), maar dat is niet het belangrijkste bezwaar. Verdringing van lokale winkels (optie C) speelt niet in het landelijk gebied. Openbaar vervoer (optie D) is geen hoofdbezwaar.",
               "afbeelding": "images/bron12_distributiecentra.png"
             },
             {
@@ -2496,13 +2497,13 @@
               "type": "multiple_choice",
               "vraag": "Waarom komen jongeren die wegtrekken uit krimpgebieden vaak niet meer terug?",
               "opties": [
-                "De huurprijzen in krimpgebieden zijn te hoog",
-                "Ze mogen van de overheid niet meer terugkeren",
-                "Er zijn in krimpgebieden geen woningen beschikbaar",
+                "De woningvoorraad in krimpgebieden sluit niet aan bij de wensen van jonge gezinnen",
+                "De lokale overheid geeft voorrang aan ouderen bij de toewijzing van woningen",
+                "In krimpgebieden worden geen nieuwe woningen meer gebouwd",
                 "Ze vinden elders werk en stichten daar een gezin"
               ],
               "juiste_antwoord": 3,
-              "uitleg": "Jongeren trekken weg voor studie of werk en komen niet terug als ze een gezin stichten. Ze bouwen hun leven op in de stad of een ander gebied. Hierdoor daalt het geboortecijfer in het krimpgebied verder en versterkt het probleem zichzelf.",
+              "uitleg": "Jongeren trekken weg voor studie of werk en komen niet terug als ze een gezin stichten. Ze bouwen hun leven op in de stad of een ander gebied. Hoewel de woningvoorraad een rol kan spelen (optie A), is de hoofdreden werk en sociaal netwerk. Er is geen voorrangsbeleid voor ouderen (optie B) en er worden soms nog wel woningen gebouwd (optie C).",
               "afbeelding": "images/bron10_groei_krimp.png"
             }
           ]
@@ -2526,7 +2527,7 @@
               "vraag": "Wat wordt bedoeld met 'ruimtelijke ordening'?",
               "opties": [
                 "Alle wetten en regels die de inrichting van de ruimte betreffen",
-                "Het aanleggen van nieuwe wegen en spoorlijnen door de overheid",
+                "Het aanleggen van nieuwe wegen en spoorlijnen door de overheid, maar dat klopt niet",
                 "De manier waarop burgers hun eigen woning mogen verbouwen",
                 "Het beleid van gemeenten om meer woningen te bouwen"
               ],
@@ -2647,7 +2648,7 @@
                 "Provincies verliezen hun invloed op het ruimtelijk beleid",
                 "Het Rijk moet meer snelwegen aanleggen om gemeenten te verbinden",
                 "Gemeenten bouwen elk een eigen woonboulevard, waardoor panden onverhuurd blijven",
-                "Burgerparticipatie wordt onmogelijk doordat gemeenten niet willen samenwerken"
+                "Burgerparticipatie wordt onmogelijk doordat gemeenten niet willen samenwerken, maar dat klopt niet"
               ],
               "juiste_antwoord": 2,
               "uitleg": "Als iedere gemeente een eigen woonboulevard bouwt of een bedrijventerrein aanlegt, kunnen er onverhuurbare panden ontstaan en blijven bedrijventerreinen half leeg. De verzorgingsgebieden van gemeenten in een regio overlappen vaak."
@@ -2666,7 +2667,7 @@
               "opties": [
                 "Andere bestuurslagen, maatschappelijke organisaties en het bedrijfsleven",
                 "Alleen de provincies en gemeenten",
-                "Alleen maatschappelijke organisaties en het bedrijfsleven",
+                "Alleen maatschappelijke organisaties en het bedrijfsleven, maar dat klopt niet",
                 "Alleen de Tweede Kamer en de Eerste Kamer"
               ],
               "juiste_antwoord": 0,
@@ -2856,7 +2857,7 @@
               "type": "multiple_choice",
               "vraag": "Wat is het verschil tussen renovatie en sanering bij stadsvernieuwing?",
               "opties": [
-                "Renovatie is het slopen van woningen; sanering is het opknappen ervan",
+                "Renovatie is het slopen van woningen; sanering is het opknappen ervan, maar dat klopt niet",
                 "Renovatie is bedoeld voor koopwoningen; sanering voor huurwoningen",
                 "Renovatie gebeurt door de overheid; sanering door particulieren",
                 "Renovatie is het opknappen van woningen; sanering is sloop gevolgd door nieuwbouw"
@@ -2871,7 +2872,7 @@
               "opties": [
                 "De overheid verbood het om mensen uit hun wijk te verplaatsen",
                 "De huur bleef laag dankzij felle actievoerders, waardoor dezelfde bewoners bleven",
-                "Er werden geen nieuwe woningen gebouwd, alleen bestaande opgeknapt",
+                "Er werden geen nieuwe woningen gebouwd, alleen bestaande opgeknapt, maar dat klopt niet",
                 "De wijken waren zo populair dat niemand wilde verhuizen"
               ],
               "juiste_antwoord": 1,
@@ -3025,7 +3026,7 @@
               "vraag": "Welke drie soorten kenmerken bevat een wijk- en buurtprofiel?",
               "opties": [
                 "Woningkenmerken, bewonerskenmerken en de inrichting van de openbare ruimte",
-                "Woningprijzen, bevolkingsdichtheid en criminaliteitscijfers",
+                "Woningprijzen, bevolkingsdichtheid en criminaliteitscijfers, maar dat klopt niet",
                 "Voorzieningen, bereikbaarheid en milieukwaliteit",
                 "Werkgelegenheid, opleidingsniveau en gezondheidszorg"
               ],
@@ -3045,7 +3046,7 @@
               "type": "multiple_choice",
               "vraag": "Wat wordt bedoeld met 'sociale huurwoningen'?",
               "opties": [
-                "Woningen die particulieren verhuren aan mensen met een hoog inkomen",
+                "Woningen die particulieren verhuren aan mensen met een hoog inkomen bij alle gebieden in Nederland",
                 "Koopwoningen die met overheidssubsidie zijn gebouwd",
                 "Huurwoningen met een lage huur, beheerd door corporaties, bedoeld voor mensen met een laag inkomen",
                 "Woningen in de vrije sector die door de gemeente worden toegewezen"
@@ -3082,7 +3083,7 @@
               "type": "multiple_choice",
               "vraag": "Welk probleem kenmerkt woningen uit de jaren 1960 en 1970?",
               "opties": [
-                "Ze liggen te ver van het stadscentrum voor goede bereikbaarheid",
+                "Ze liggen te ver van het stadscentrum voor goede bereikbaarheid, maar dat klopt niet",
                 "Ze zijn te duur voor sociale huur vanwege de grote oppervlakte",
                 "Ze hebben te weinig verdiepingen voor het aantal bewoners",
                 "Ze zijn vaak slecht geïsoleerd doordat ze snel en goedkoop gebouwd zijn"
@@ -3194,7 +3195,7 @@
               "vraag": "Een gemeente houdt een enquête waarin bewoners gevraagd wordt hoe veilig zij zich voelen in hun buurt. Welk type sociale veiligheid wordt hiermee gemeten?",
               "opties": [
                 "Objectieve sociale veiligheid, want de resultaten worden statistisch verwerkt",
-                "Objectieve sociale veiligheid, want de enquête is een officieel meetinstrument",
+                "Objectieve sociale veiligheid, want de enquête is een officieel meetinstrument, maar dat klopt niet",
                 "Zowel objectieve als subjectieve sociale veiligheid",
                 "Subjectieve sociale veiligheid, want het gaat om het veiligheidsgevoel van bewoners"
               ],
@@ -3244,7 +3245,7 @@
               "vraag": "In een wijk is het aantal geregistreerde misdrijven laag, maar veel bewoners voelen zich toch onveilig. Wat kun je hieruit concluderen?",
               "opties": [
                 "De subjectieve sociale veiligheid is hoog, maar de objectieve is laag",
-                "Er is geen verschil tussen objectieve en subjectieve veiligheid in deze wijk",
+                "Er is geen verschil tussen objectieve en subjectieve veiligheid in deze wijk, maar dat klopt niet",
                 "De objectieve sociale veiligheid is hoog, maar de subjectieve sociale veiligheid is laag",
                 "De politie registreert te weinig misdrijven en het beeld klopt niet"
               ],
@@ -3371,7 +3372,7 @@
               "vraag": "In een buurt organiseren vrijwilligers een buurtbarbecue en houden ze samen de straat schoon. De sociale cohesie is er niet bijzonder groot. Wat is het effect op de leefbaarheid?",
               "opties": [
                 "De subjectieve veiligheid en leefbaarheid nemen toe, ook al is de sociale cohesie niet zo groot",
-                "Er is geen effect, want zonder sterke sociale cohesie werken zulke initiatieven niet",
+                "Er is geen effect, want zonder sterke sociale cohesie werken zulke initiatieven niet, maar dat klopt niet",
                 "De objectieve veiligheid stijgt doordat er minder criminaliteit wordt geregistreerd",
                 "Alleen de toegankelijkheid van de openbare ruimte verbetert"
               ],
