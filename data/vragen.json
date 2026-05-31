@@ -471,14 +471,14 @@
                 "Om de sedimentatie in de bovenloop te verminderen"
               ],
               "juiste_antwoord": 2,
-              "uitleg": "Door kanalisatie (het rechttrekken van bochten) wordt het water sneller afgevoerd naar zee, wat het overstromingsrisico verkleint. Bovendien worden de vaarroutes korter, wat de scheepvaart goedkoper maakt. Meandering zorgt namelijk voor langere routes en tragere afvoer."
+              "uitleg": "Door kanalisatie worden stuwen en sluizen ingezet om het waterpeil te reguleren. Daarnaast worden bochten rechtgetrokken zodat het water sneller naar zee stroomt en de vaarroutes korter worden."
             },
             {
               "id": 33,
               "type": "invullen",
-              "vraag": "Het rechttrekken van bochten in een rivier om de waterafvoer en scheepvaart te verbeteren noemen we ...",
+              "vraag": "Het nemen van maatregelen gericht op het reguleren van het waterpeil in een rivier door middel van stuwen en sluizen noemen we ...",
               "juiste_antwoord": "kanalisatie",
-              "uitleg": "Kanalisatie is het rechttrekken van bochten in de rivier. Dit zorgt ervoor dat het water sneller naar zee stroomt (minder overstromingsrisico) en dat schepen een kortere route afleggen (lagere kosten)."
+              "uitleg": "Kanalisatie is het nemen van maatregelen gericht op het reguleren van het waterpeil in een rivier door middel van stuwen en sluizen. In de praktijk worden daarbij ook bochten rechtgetrokken om de waterafvoer en scheepvaart te verbeteren."
             },
             {
               "id": 34,
@@ -1549,8 +1549,8 @@
       "subdoelen": [
         {
           "subdoel_id": "7.1",
-          "subdoel_titel": "Begrippen paragraaf 1.1",
-          "uitleg_tekst": "Kernbegrippen: stroomstelsel, stroomgebied, waterscheiding, lengteprofiel, verval, verhang, debiet, regiem en piekafvoer.",
+          "subdoel_titel": "Rivieren: de natuur",
+          "uitleg_tekst": "Kernbegrippen over rivieren: stroomstelsel, stroomgebied, waterscheiding, lengteprofiel, verval, verhang, debiet, regiem, piekafvoer en klimaatverandering.",
           "vragen": [
             {
               "id": 106,
@@ -1583,8 +1583,8 @@
         },
         {
           "subdoel_id": "7.2",
-          "subdoel_titel": "Begrippen paragraaf 1.2",
-          "uitleg_tekst": "Kernbegrippen: dwarsprofiel, zomerbed, uiterwaard, buitendijks/binnendijks, kanalisatie, kribben, stuwen en vertragingstijd.",
+          "subdoel_titel": "Rivieren: de invloed van de mens",
+          "uitleg_tekst": "Kernbegrippen over menselijke ingrepen in rivieren: dwarsprofiel, zomerbed, uiterwaard, buitendijks/binnendijks, kanalisatie, kribben, stuwen, dijkverzwaring en verstening.",
           "vragen": [
             {
               "id": 109,
@@ -1608,17 +1608,17 @@
                 "Het verbreden van de uiterwaarden om meer water te bergen",
                 "Het aanleggen van kribben om de oever te beschermen",
                 "Het verplaatsen van winterdijken verder van de rivier af",
-                "Het rechttrekken van bochten om water sneller af te voeren en de scheepvaart te verbeteren"
+                "Het reguleren van het waterpeil door middel van stuwen en sluizen"
               ],
               "juiste_antwoord": 3,
-              "uitleg": "Kanalisatie is het rechttrekken van bochten in een rivier. Hierdoor stroomt het water sneller naar zee (lager overstromingsrisico) en worden vaarroutes korter (goedkopere scheepvaart). Het verbreden van uiterwaarden (optie A) is onderdeel van Ruimte voor de Rivier. Kribben (optie B) zijn dwars op de oever geplaatste constructies die de stroming sturen. Dijkverlegging (optie C) is het verplaatsen van dijken."
+              "uitleg": "Kanalisatie is het nemen van maatregelen gericht op het reguleren van het waterpeil in een rivier door middel van stuwen en sluizen. Het verbreden van uiterwaarden (optie A) is onderdeel van Ruimte voor de Rivier. Kribben (optie B) zijn dwars op de oever geplaatste constructies die de stroming sturen. Dijkverlegging (optie C) is het verplaatsen van dijken."
             }
           ]
         },
         {
           "subdoel_id": "7.3",
-          "subdoel_titel": "Begrippen paragraaf 1.3",
-          "uitleg_tekst": "Kernbegrippen: rivierbedverruiming, Ruimte voor de rivier, Hoogwaterbeschermingsprogramma, waterkeringen en waterschappen.",
+          "subdoel_titel": "Ruimte voor de rivier",
+          "uitleg_tekst": "Kernbegrippen over rivierbedverruiming: Ruimte voor de rivier, Hoogwaterbeschermingsprogramma, waterkeringen en waterschappen.",
           "vragen": [
             {
               "id": 112,
@@ -1651,8 +1651,8 @@
         },
         {
           "subdoel_id": "7.4",
-          "subdoel_titel": "Begrippen paragraaf 1.4",
-          "uitleg_tekst": "Kernbegrippen: Deltaprogramma, KNMI, IPCC, acceptatie, adaptatie, integraal waterbeheer, drietrapsstrategie en infiltratie.",
+          "subdoel_titel": "Nederlands waterbeleid",
+          "uitleg_tekst": "Kernbegrippen over waterbeleid: Deltaprogramma, KNMI, IPCC, acceptatie, adaptatie, integraal waterbeheer, vasthouden, bergen en afvoer bevorderen.",
           "vragen": [
             {
               "id": 115,
@@ -1685,8 +1685,8 @@
         },
         {
           "subdoel_id": "7.5",
-          "subdoel_titel": "Begrippen paragraaf 1.5",
-          "uitleg_tekst": "Kernbegrippen: dijkring, ontwatering, overstromingsrisicobewustzijn en springtij.",
+          "subdoel_titel": "Overstromingsrisico's",
+          "uitleg_tekst": "Kernbegrippen over overstromingsrisico's: dijkring, ontwatering, overstromingsrisicobewustzijn en springtij.",
           "vragen": [
             {
               "id": 118,
@@ -1719,8 +1719,8 @@
         },
         {
           "subdoel_id": "7.6",
-          "subdoel_titel": "Begrippen paragraaf 1.6",
-          "uitleg_tekst": "Kernbegrippen: aanvoeren, grondwateronttrekking en verzilting.",
+          "subdoel_titel": "Zoetwatervoorraden",
+          "uitleg_tekst": "Kernbegrippen over zoetwatervoorraden: aanvoeren, grondwateronttrekking en verzilting.",
           "vragen": [
             {
               "id": 121,
