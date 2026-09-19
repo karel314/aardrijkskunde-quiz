@@ -16,22 +16,66 @@
     "bgAccent": "#dcfce7"
   },
   "gridColumns": 2,
-  "dataFiles": ["data/vragen.json"],
+  "dataFiles": [
+    "data/vragen.json"
+  ],
   "badges": {
-    "1":  { "name": "Stroomgebiedkenner",  "emoji": "🌊" },
-    "2":  { "name": "Lengteprofiel-expert", "emoji": "⛰️" },
-    "3":  { "name": "Waterregiemmeester",   "emoji": "📈" },
-    "4":  { "name": "Klimaatonderzoeker",   "emoji": "🌡️" },
-    "5":  { "name": "Overstromingsanalist", "emoji": "🚨" },
-    "6":  { "name": "Dijkenbouwer",         "emoji": "🧱" },
-    "7":  { "name": "Beleidsadviseur",      "emoji": "📋" },
-    "8":  { "name": "Oorzaak-Gevolg Pro",   "emoji": "🔗" },
-    "9":  { "name": "Stadsplanoloog",       "emoji": "🏙️" },
-    "10": { "name": "Economieprofessor",    "emoji": "💼" },
-    "11": { "name": "Wetgevingsexpert",     "emoji": "⚖️" },
-    "12": { "name": "Stadshistoricus",      "emoji": "🏛️" },
-    "13": { "name": "Wijkprofiler",         "emoji": "🏠" },
-    "14": { "name": "Veiligheidsadviseur",  "emoji": "🛡️" }
+    "1": {
+      "name": "Stroomgebiedkenner",
+      "emoji": "🌊"
+    },
+    "2": {
+      "name": "Lengteprofiel-expert",
+      "emoji": "⛰️"
+    },
+    "3": {
+      "name": "Waterregiemmeester",
+      "emoji": "📈"
+    },
+    "4": {
+      "name": "Klimaatonderzoeker",
+      "emoji": "🌡️"
+    },
+    "5": {
+      "name": "Overstromingsanalist",
+      "emoji": "🚨"
+    },
+    "6": {
+      "name": "Dijkenbouwer",
+      "emoji": "🧱"
+    },
+    "7": {
+      "name": "Beleidsadviseur",
+      "emoji": "📋"
+    },
+    "8": {
+      "name": "Oorzaak-Gevolg Pro",
+      "emoji": "🔗"
+    },
+    "9": {
+      "name": "Stadsplanoloog",
+      "emoji": "🏙️"
+    },
+    "10": {
+      "name": "Economieprofessor",
+      "emoji": "💼"
+    },
+    "11": {
+      "name": "Wetgevingsexpert",
+      "emoji": "⚖️"
+    },
+    "12": {
+      "name": "Stadshistoricus",
+      "emoji": "🏛️"
+    },
+    "13": {
+      "name": "Wijkprofiler",
+      "emoji": "🏠"
+    },
+    "14": {
+      "name": "Veiligheidsadviseur",
+      "emoji": "🛡️"
+    }
   },
   "correctMsgs": [
     "Je kent je stroomgebieden als de beste!",
@@ -115,7 +159,14 @@
       "Dit is je startpunt. Gebruik de flashcards en probeer opnieuw!"
     ]
   },
-  "confettiColors": ["#16a34a", "#22c55e", "#f59e0b", "#ef4444", "#3b82f6", "#ec4899"],
+  "confettiColors": [
+    "#16a34a",
+    "#22c55e",
+    "#f59e0b",
+    "#ef4444",
+    "#3b82f6",
+    "#ec4899"
+  ],
   "uiStrings": {
     "correct": "Goed!",
     "wrong": "Helaas, fout!",
@@ -139,5 +190,11 @@
       "invullen": "Invullen",
       "volgorde": "Volgorde"
     }
+  },
+  "bronnenCheck": {
+    "skip": [
+      "4.7",
+      "4.8"
+    ]
   }
 }
